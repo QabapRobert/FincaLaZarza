@@ -23,6 +23,7 @@ const copy = {
     'season.blossomBody':
       'De Guara-bomen bloeien onder de Alicante-zon — zacht roze, bijen in de bloemen.',
     'season.blossomAlt': 'Guara-bloesem met bij en blauwe lucht',
+    'season.blossomTreeAlt': 'Guara-boom in volle bloei tegen blauwe lucht',
     'season.growLabel': 'Groei',
     'season.growTitle': 'Groene schillen aan de tak',
     'season.growBody':
@@ -33,20 +34,23 @@ const copy = {
     'season.nutsTitle': 'Rijp tot open',
     'season.nutsBody':
       'De schil barst open en de Guara-noot toont zich — mild, zoet, klaar voor de oogst.',
+    'season.orchardRipeAlt': 'Guara-boom vol rijpende amandelen op de finca',
     'season.ripeAlt': 'Rijpe Guara-amandelen met gespleten schil',
     'season.splitAlt': 'Close-up van Guara-amandelen in de schil',
     'season.harvestLabel': 'Oogst',
     'season.harvestTitle': 'Van boom naar zak',
     'season.harvestBody':
-      'Met de Kubota en het blauwe zeil vangen we de oogst — daarna drogen en vullen we de jutte zakken.',
+      'Met de Kubota en het blauwe zeil vangen we de oogst — daarna drogen we de noten in de zon en vullen we de jutte zakken.',
     'season.tractorAlt': 'Oogst: Kubota met blauw opvangzeil onder de boom',
     'season.unloadAlt': 'Verse Guara-amandelen worden gelost',
+    'season.dryingAlt': 'Guara-amandelen drogen in de zon naast de finca',
     'products.title': 'Guara-amandelen',
     'products.support': 'Kies 2 kg of 5 kg in jutte zak — bestel via WhatsApp.',
     'products.bag': 'Jutte zak · WhatsApp',
     'products.why':
       'Guara: milde, zoete noot met een stevige beet — gerijpt in de droge warmte van Agost.',
-    'products.imgAlt': 'Close-up van Guara-amandelen in de schil',
+    'products.imgAlt': 'Guara-amandelen in de harde schil',
+    'products.bowlAlt': 'Kom met gepelde Guara-amandelen',
     'delivery.title': 'Afhalen op de finca',
     'delivery.body':
       'Alleen afhalen bij Finca La Zarza in Agost — ook als je uit Nederland of Spanje komt. Stuur een WhatsApp; we bevestigen beschikbaarheid en een afhaalmoment.',
@@ -91,6 +95,7 @@ const copy = {
     'season.blossomBody':
       'Los almendros Guara florecen bajo el sol de Alicante — rosa suave, abejas en las flores.',
     'season.blossomAlt': 'Flor de Guara con abeja y cielo azul',
+    'season.blossomTreeAlt': 'Almendro Guara en plena floración contra el cielo azul',
     'season.growLabel': 'Crecimiento',
     'season.growTitle': 'Cáscaras verdes en la rama',
     'season.growBody':
@@ -101,20 +106,23 @@ const copy = {
     'season.nutsTitle': 'Maduras y abiertas',
     'season.nutsBody':
       'La cáscara se abre y aparece la Guara — suave, dulce, lista para cosechar.',
+    'season.orchardRipeAlt': 'Almendro Guara lleno de almendras madurando en la finca',
     'season.ripeAlt': 'Almendras Guara maduras con cáscara abierta',
     'season.splitAlt': 'Primer plano de almendras Guara en su cáscara',
     'season.harvestLabel': 'Cosecha',
     'season.harvestTitle': 'Del árbol al saco',
     'season.harvestBody':
-      'Con la Kubota y la lona azul recogemos la cosecha — luego secamos y llenamos los sacos de yute.',
+      'Con la Kubota y la lona azul recogemos la cosecha — luego secamos las nueces al sol y llenamos los sacos de yute.',
     'season.tractorAlt': 'Cosecha: Kubota con lona azul bajo el árbol',
     'season.unloadAlt': 'Almendras Guara frescas descargándose',
+    'season.dryingAlt': 'Almendras Guara secándose al sol junto a la finca',
     'products.title': 'Almendras Guara',
     'products.support': 'Elige 2 kg o 5 kg en saco de yute — pide por WhatsApp.',
     'products.bag': 'Saco de yute · WhatsApp',
     'products.why':
       'Guara: sabor dulce y suave, mordida firme — madurada con el calor seco de Agost.',
-    'products.imgAlt': 'Primer plano de almendras Guara en su cáscara',
+    'products.imgAlt': 'Almendras Guara en su cáscara dura',
+    'products.bowlAlt': 'Cuenco con almendras Guara peladas',
     'delivery.title': 'Recogida en la finca',
     'delivery.body':
       'Solo recogida en Finca La Zarza, Agost — también si vienes de Países Bajos o España. Envía un WhatsApp; confirmamos disponibilidad y momento de recogida.',
