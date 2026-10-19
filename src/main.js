@@ -24,6 +24,7 @@ const copy = {
       'De Guara-bomen bloeien onder de Alicante-zon — zacht roze, bijen in de bloemen.',
     'season.blossomAlt': 'Guara-bloesem met bij en blauwe lucht',
     'season.blossomTreeAlt': 'Guara-boom in volle bloei tegen blauwe lucht',
+    'season.blossomSingleAlt': 'Close-up van een Guara-bloesem met geel stuifmeel',
     'season.growLabel': 'Groei',
     'season.growTitle': 'Groene schillen aan de tak',
     'season.growBody':
@@ -96,6 +97,7 @@ const copy = {
       'Los almendros Guara florecen bajo el sol de Alicante — rosa suave, abejas en las flores.',
     'season.blossomAlt': 'Flor de Guara con abeja y cielo azul',
     'season.blossomTreeAlt': 'Almendro Guara en plena floración contra el cielo azul',
+    'season.blossomSingleAlt': 'Primer plano de una flor de Guara con polen amarillo',
     'season.growLabel': 'Crecimiento',
     'season.growTitle': 'Cáscaras verdes en la rama',
     'season.growBody':
