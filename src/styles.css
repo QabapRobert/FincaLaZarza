@@ -559,6 +559,16 @@ textarea:focus-visible {
   object-position: center 55%;
 }
 
+.products-pair {
+  align-self: stretch;
+}
+
+.products-pair img {
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  width: 100%;
+}
+
 .season-bleed {
   margin-bottom: var(--space-5);
 }
@@ -597,8 +607,26 @@ textarea:focus-visible {
     grid-template-columns: 1fr 1fr;
   }
 
+  .season-pair.blossom-pair {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+
   .season-pair.harvest-pair {
-    grid-template-columns: 1.4fr 1fr;
+    grid-template-columns: 1.3fr 0.85fr 0.85fr;
+  }
+
+  .season-pair.harvest-pair .wide {
+    grid-column: 1 / -1;
+  }
+}
+
+@media (min-width: 1100px) {
+  .season-pair.harvest-pair {
+    grid-template-columns: 1.35fr 0.9fr 0.9fr;
+  }
+
+  .season-pair.harvest-pair .wide {
+    grid-column: auto;
   }
 }
 
