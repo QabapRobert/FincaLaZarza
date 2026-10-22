@@ -589,7 +589,6 @@ textarea:focus-visible {
 .wa-actions {
   display: grid;
   gap: 0.75rem;
-  margin-bottom: var(--space-3);
 }
 
 @media (min-width: 700px) {
@@ -728,17 +727,6 @@ textarea:focus-visible {
   margin: -0.5rem 0 0;
   font-size: 0.88rem;
   color: var(--ink-soft);
-}
-
-.pickup-note {
-  margin: 0;
-  padding: 0.75rem 0.9rem;
-  border: 1px solid var(--line);
-  border-radius: var(--radius);
-  background: color-mix(in srgb, white 50%, var(--sky-soft));
-  color: var(--earth);
-  font-weight: 600;
-  font-size: 0.95rem;
 }
 
 .choice-set {

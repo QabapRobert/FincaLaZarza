@@ -58,7 +58,6 @@ const copy = {
       'Kies je zak — we openen WhatsApp met een kant-en-klaar bericht (afhalen in Agost).',
     'order.wa2': 'WhatsApp · 2 kg Guara',
     'order.wa5': 'WhatsApp · 5 kg Guara',
-    'order.pickupNote': 'Levering: afhalen in Agost · ES & NL',
     'footer.line': 'Guara-amandelen · Agost, Spanje · Afhalen op de finca',
     'meta.title': 'Finca La Zarza — Agost',
     'meta.description':
@@ -126,7 +125,6 @@ const copy = {
       'Elige tu saco — abrimos WhatsApp con un mensaje listo (recogida en Agost).',
     'order.wa2': 'WhatsApp · 2 kg Guara',
     'order.wa5': 'WhatsApp · 5 kg Guara',
-    'order.pickupNote': 'Entrega: recogida en Agost · ES & NL',
     'footer.line': 'Almendras Guara · Agost, España · Recogida en la finca',
     'meta.title': 'Finca La Zarza — Agost',
     'meta.description':
